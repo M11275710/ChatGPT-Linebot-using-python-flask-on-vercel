@@ -5,3 +5,4 @@ torch
 nltk
 random
 numpy
+simplejson
